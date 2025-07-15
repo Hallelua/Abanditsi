@@ -99,7 +99,7 @@ export const LandingPage: React.FC = () => {
             <div className="flex items-center justify-center mb-6">
               <PenSquare className="h-16 w-16 text-blue-200 mr-4" />
               <h1 className="text-5xl md:text-6xl font-bold">
-                BlogHub
+                Inyandiko
               </h1>
             </div>
             <p className="text-xl md:text-2xl text-blue-100 max-w-3xl mx-auto">
